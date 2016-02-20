@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\StreetFighterV\Assets\Characters\CharacterBlackMamba.cs">
+    <Files>
+      <File FileName="..\StreetFighterV\Assets\World.cs" Line="13" Column="23" />
+      <File FileName="..\StreetFighterV\Assets\Characters\CharacterBlackMamba.cs" Line="5" Column="1" />
+      <File FileName="..\StreetFighterV\Assets\Characters\CharacterGuile.cs" Line="5" Column="3" />
+      <File FileName="..\StreetFighterV\Assets\Characters\CharacterRyu.cs" Line="4" Column="38" />
+      <File FileName="..\StreetFighterV\Assets\Character.cs" Line="8" Column="2" />
+      <File FileName="..\StreetFighterV\Assets\Player.cs" Line="70" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
